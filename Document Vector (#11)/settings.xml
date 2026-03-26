@@ -33,7 +33,7 @@
         <entry key="As_Collection" type="xboolean" value="true"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="EXECUTED"/>
+    <entry key="state" type="xstring" value="CONFIGURED"/>
     <entry key="factory" type="xstring" value="org.knime.ext.textprocessing.nodes.transformation.documentvector.DocumentVectorNodeFactory2"/>
     <entry key="node-name" type="xstring" value="Document Vector"/>
     <entry key="node-bundle-name" type="xstring" value="KNIME Textprocessing Plug-in"/>
@@ -46,28 +46,20 @@
     <entry key="node-feature-version" type="xstring" value="5.10.0.v202511281046"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="Document Vector"/>
-    <entry key="hasContent" type="xboolean" value="true"/>
+    <entry key="hasContent" type="xboolean" value="false"/>
     <entry key="isInactive" type="xboolean" value="false"/>
     <config key="ports">
         <config key="port_1">
             <entry key="index" type="xint" value="1"/>
-            <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
-            <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 999, Cols: 2"/>
-            <entry key="port_dir_location" type="xstring" value="port_1"/>
+            <entry key="port_dir_location" type="xstring" isnull="true" value=""/>
         </config>
         <config key="port_2">
             <entry key="index" type="xint" value="2"/>
-            <entry key="port_spec_class" type="xstring" value="org.knime.ext.textprocessing.data.DocumentVectorPortObjectSpec"/>
-            <entry key="port_object_class" type="xstring" value="org.knime.ext.textprocessing.data.DocumentVectorPortObject"/>
-            <entry key="port_object_summary" type="xstring" value="Document Vector"/>
-            <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
-            <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
-            <entry key="port_dir_location" type="xstring" value="port_2"/>
+            <entry key="port_dir_location" type="xstring" isnull="true" value=""/>
         </config>
     </config>
     <config key="filestores">
-        <entry key="file_store_location" type="xstring" value="filestore"/>
-        <entry key="file_store_id" type="xstring" value="e5468c2c-7754-4b85-949b-a0a1f2107c03"/>
+        <entry key="file_store_location" type="xstring" isnull="true" value=""/>
+        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
     </config>
 </config>

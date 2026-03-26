@@ -9,3 +9,7 @@ __MACOSX/
 **/port_*/data.zip
 **/port_*/data.xml
 **/port_*/spec.xml
+
+.knimeLock
+.metadata/
+Example Workflows/

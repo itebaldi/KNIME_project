@@ -13,7 +13,7 @@
                     <config key="path">
                         <entry key="location_present" type="xboolean" value="true"/>
                         <entry key="file_system_type" type="xstring" value="LOCAL"/>
-                        <entry key="path" type="xstring" value="C:\Users\Isadora\knime-workspace\KNIME_project\sentiment+labelled+sentences\sentiment labelled sentences\yelp_labelled.txt"/>
+                        <entry key="path" type="xstring" value="C:\Users\Isadora\isa-flat\KNIME_project\sentiment+labelled+sentences\sentiment labelled sentences\yelp_labelled.txt"/>
                     </config>
                     <entry key="includeSubfolders" type="xboolean" value="false"/>
                     <config key="filters">
@@ -130,16 +130,16 @@
                 </config>
             </config>
         </config>
-        <entry key="sourceId_Internals" type="xstring" value="C:\Users\Isadora\knime-workspace\KNIME_project\sentiment+labelled+sentences\sentiment labelled sentences\yelp_labelled.txt"/>
+        <entry key="sourceId_Internals" type="xstring" value="C:\Users\Isadora\isa-flat\KNIME_project\sentiment+labelled+sentences\sentiment labelled sentences\yelp_labelled.txt"/>
         <config key="transformationParameters">
             <config key="specs">
                 <config key="0">
                     <config key="fsLocation">
                         <entry key="location_present" type="xboolean" value="true"/>
                         <entry key="file_system_type" type="xstring" value="LOCAL"/>
-                        <entry key="path" type="xstring" value="C:\Users\Isadora\knime-workspace\KNIME_project\sentiment+labelled+sentences\sentiment labelled sentences\yelp_labelled.txt"/>
+                        <entry key="path" type="xstring" value="C:\Users\Isadora\isa-flat\KNIME_project\sentiment+labelled+sentences\sentiment labelled sentences\yelp_labelled.txt"/>
                     </config>
-                    <entry key="sourceIdentifier" type="xstring" value="C:\Users\Isadora\knime-workspace\KNIME_project\sentiment+labelled+sentences\sentiment labelled sentences\yelp_labelled.txt"/>
+                    <entry key="sourceIdentifier" type="xstring" value="C:\Users\Isadora\isa-flat\KNIME_project\sentiment+labelled+sentences\sentiment labelled sentences\yelp_labelled.txt"/>
                     <config key="spec">
                         <config key="0">
                             <entry key="name" type="xstring" value="Column0"/>
@@ -258,6 +258,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="854cf1df-6ae2-4408-9fee-cab3c06ec939"/>
+        <entry key="file_store_id" type="xstring" value="25819d93-2518-4885-83bb-066128c13c52"/>
     </config>
 </config>
